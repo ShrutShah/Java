@@ -6,7 +6,10 @@ class HelloWorld {
         System.out.println("Enter no: ");
         int a = sc.nextInt();
         System.out.println(a);
-        
+
+        System.out.println("Enter Sentence: ");
+        String s = sc.nextLine();
+        System.out.println(s);
         
         
         
